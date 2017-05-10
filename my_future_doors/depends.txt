@@ -1,2 +1,2 @@
-my_door_wood
+coloredwood
 craft_guide?
